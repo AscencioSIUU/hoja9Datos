@@ -1,4 +1,4 @@
-# Implementacion de Arboles binarios de busqueda (BST)
+# Implementación del algoritmo de Dijkstra para el sistema de agendamiento de viajes
 
 ##### Autores:
 
@@ -12,19 +12,19 @@ El programa implementará un sistema para agendar viajes utilizando el algoritmo
 
 El formato del archivo `rutas.txt` será el siguiente:
 
-    ```console
+```console
     “Pueblo Paleta”, “Aldea Azalea”, 100
     “Aldea Azalea”, “Ciudad Safiro”, 150
     “Pueblo Paleta”, “Ciudad Safiro”, 800
     “Ciudad Lavanda”, “Aldea Fuego”, 300
-     ```
+```
 
 ##### Instalación:
 
 1. Clonar repocitorio de github:
-    ```console
-    
-    ```
+```console
+    https://github.com/AscencioSIUU/hoja9Datos.git
+```
 
 2. Abrir dicho programa en el editor de texto de preferencia.
 
